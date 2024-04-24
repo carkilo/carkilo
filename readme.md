@@ -1,7 +1,9 @@
 Create a website.
 Get website parked url.
 Clone homepage html.
-Modify the html to redirect to the parked url. (e.g): 
+Modify the html to redirect to the parked url. (e.g): <meta charset="UTF-8">
+                                                      <meta http-equiv="refresh" content="0;url=https://carkilo.godaddysites.com/">
+                                                      <title>Redirecting...</title>
 
 -create a git repository and add the html to it
 -go to the github.pages and publish the website
